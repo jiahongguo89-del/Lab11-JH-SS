@@ -6,7 +6,7 @@ One function per operation, in order.
 """
 # https://github.com/jiahongguo89-del/Lab11-JH-SS
 # Partner 1: Jiahong Guo
-# Partner 2: Sam
+# Partner 2: Samuel Simoes
 
 import math
 
